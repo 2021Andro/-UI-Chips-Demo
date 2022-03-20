@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chips Demo</string>
+    <string name="chip_name">Chip Name</string>
+    <string name="chip_ok">Ok</string>
+    <string name="chip_cancel">Cancel</string>
+    <string name="chip_dislike">Dislike</string>
+    <string name="chip_like">Like</string>
+</resources>
